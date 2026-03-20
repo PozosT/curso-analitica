@@ -23,7 +23,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter-book
+        pip install "jupyter-book<2"
         pip install numpy scipy pandas scikit-learn matplotlib seaborn statsmodels
 
     - name: Build the book
