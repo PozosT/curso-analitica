@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+_build/
+tmp
+tmp.png
+tree.dot
+*.egg-info/
+.env
+
+# Archivos grandes (>100MB, no permitidos en GitHub)
+data/taxis.csv
+data/creditcard.csv
+Sec_9_Others_topics/creditcard.csv
+Ejercicio_Entregable/4. Detección de anomalias/creditcard.csv

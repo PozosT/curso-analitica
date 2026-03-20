@@ -1,0 +1,24 @@
+# Book settings
+title: Aprendizaje de Máquina Aplicado a la Toma de Decisiones
+author: Alejandra Tabares Pozos
+copyright: "2024"
+
+# No re-ejecutar notebooks (evita errores de dependencias en CI)
+execute:
+  execute_notebooks: "off"
+
+# Botones en la interfaz
+html:
+  use_issues_button: false
+  use_repository_button: true
+  use_edit_page_button: false
+
+# Botón de abrir en Colab
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
+
+# Repositorio de GitHub — CAMBIA usuario y nombre del repo
+repository:
+  url: https://github.com/PozosT/curso-analitica
+  path_to_book: ""
+  branch: main
