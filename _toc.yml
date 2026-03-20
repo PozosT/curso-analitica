@@ -35,10 +35,10 @@ parts:
     - file: sec_4_Regresion_multiple/Ejemplo_completo_RL
     - file: sec_4_Regresion_multiple/Ejemplo_completo_regresion_2
 
-  - caption: "Sección 5: Regularización"
+  - caption: "Sección 5: Regularización y Selección de Modelos"
     chapters:
     - file: Sec_5_Regularizaciones/1-Regularizacion
-    - file: "Sec_5_Regularizaciones/2-Ejemplo_regularizacion"
+    - file: Sec_5_Regularizaciones/2-Ejemplo_regularizacion
     - file: "Sec_5_Regularizaciones/3-Ejemplo seleccion"
 
   - caption: "Sección 6: Regresión Logística y Clasificación"
@@ -60,7 +60,7 @@ parts:
     chapters:
     - file: sec_8_Anomalty_detection/anomalty_detection
 
-  - caption: "Sección 9: Otros Temas"
+  - caption: "Sección 9: Modelos Avanzados de Clasificación"
     chapters:
     - file: Sec_9_Others_topics/Multiclase
 
